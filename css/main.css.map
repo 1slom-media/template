@@ -1,0 +1,17 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/_fonts.scss",
+        "../sass/_varibles.scss",
+        "../sass/_normalize.scss",
+        "../sass/_general.scss",
+        "../sass/bloks/_bloks.scss",
+        "../sass/bloks/_header.scss",
+        "../sass/bloks/_main.scss",
+        "../sass/bloks/_footer.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
